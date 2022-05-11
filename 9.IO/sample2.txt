@@ -1,0 +1,3 @@
+ini file sample2
+ini baris ke-2
+ini baris ke-3
