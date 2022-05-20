@@ -18,7 +18,7 @@ int main()
 
   sz = write(fd, "hello geeks\n", strlen("hello geeks\n"));
 
-  printf("called write(% d, \"hello geeks\\n\", %zu)."
+  printf("called write(%d, \"hello geeks\\n\", %zu)."
          " It returned %d\n",
          fd, strlen("hello geeks\n"), sz);
 

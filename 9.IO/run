@@ -1,4 +1,6 @@
 #!/bin/bash
 ((y=${#1}-2))
 arg=$(echo $1 | cut -c1-$y)
-gcc -o $arg.o $arg.c
+gcc -o $arg $arg.c
+./$arg $2 $3 $4 $5 $6 $7 $8 $9
+rm $arg
