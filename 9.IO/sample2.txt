@@ -1,3 +1,1 @@
-ini file sample2
-ini baris ke-2
-ini baris ke-3
+Sistem Operasi kelas TIF-C 2022

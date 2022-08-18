@@ -12,14 +12,7 @@ int main()
     exit(1);
   }
 
-<<<<<<< HEAD
-  fprintf(fh, "Look what I made!n");
-  fclose(fh);
-  return (0);
-}
-=======
   fprintf(fh, "Look what I made!\n");
   fclose(fh);
   return (0);
 }
->>>>>>> add topic
